@@ -90,3 +90,16 @@ Cuando un atacante obtiene un token de identidad delegada en un entorno corporat
 - **Dominio de infraestructura adversaria:** `kali365[.]xyz`
 - **Punto de redirección malicioso:** `login[.]microsoftonline[.]com[.]kali365[.]xyz`
 - **Flujo oficial abusado:** `https://microsoft[.]com/devicelogin`
+
+
+---
+
+## 🎬 7. Video de Divulgación y Material Audiovisual
+
+Como parte de la entrega y transferencia de conocimiento hacia la comunidad técnica y directiva (LinkedIn / Redes), se produjo la pieza audiovisual en formato vertical (Motion Graphics) que sintetiza:
+- El engaño del Device Code Phishing y la captura de tokens OAuth.
+- El riesgo exponencial al interactuar con agentes de IA corporativos (Microsoft Copilot / RAG).
+- Los 4 pilares de respuesta defensiva inmediata.
+
+* **Video MP4 de divulgación:** Generado y optimizado para redes de alta retención.
+* **Copia de difusión en LinkedIn:** Enfocada en concientización para tomadores de decisiones, empresarios y líderes de ciberseguridad.
