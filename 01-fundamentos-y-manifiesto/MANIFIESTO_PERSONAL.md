@@ -12,21 +12,16 @@
 ### 1.1. ¿POR QUÉ lo hago? (Propósito Fundamental)
 > *"El cibercrimen dejó de ser un problema técnico y se convirtió en un problema social."*
 
-Elijo formarme en ciberdefensa no por vanidad técnica ni por acumular certificaciones, sino porque el mundo digital necesita guardianes con criterio ético y empatía humana. Cuando un sistema crítico cae, no caen servidores: se paralizan hospitales, se vulneran ahorros de familias y se fractura la confianza en la tecnología. 
+Elijo este camino porque la ciberdefensa se alinea profundamente con los valores que se me han inculcado desde siempre: la integridad, el servicio y la responsabilidad hacia los demás. Representa la vía para impulsar con determinación mi crecimiento profesional y construir un futuro digno, sólido y seguro para mi familia. 
 
-En una era donde la Inteligencia Artificial acelera la sofisticación del crimen y reduce las barreras de entrada para atacar, mi propósito es proteger a las personas, salvaguardar la privacidad de sus datos y construir entornos digitales en los que podamos confiar.
+Al mismo tiempo, mi motivación diaria es seguir mejorando de forma continua para proteger a personas y organizaciones, evitando que atraviesen pérdidas, angustias y sufrimientos innecesarios provocados por el cibercrimen. Cada sistema protegido es tranquilidad para una persona o familia real.
 
 ### 1.2. ¿CÓMO lo hago? (Metodología y Principios)
 > *"No seremos héroes, seremos guardianes. Entender al adversario no es admirarlo ni imitarlo: es anticipar sus movimientos."*
 
-Actúo bajo la metodología de **Seguridad Proactiva y Basada en Evidencia**:
-1. **Defensa a velocidad de máquina, decisiones con criterio humano:** Utilizo herramientas automatizadas e IA para igualar la velocidad de los eventos, pero mantengo el juicio crítico en cada diagnóstico y contención.
-2. **Separación rigurosa de evidencia:** Distingo siempre entre **Hechos** (lo verificado en logs y telemetría), **Hipótesis** (lo plausible) y **Suposiciones** (lo no comprobado).
-3. **Romper la cadena antes del impacto:** No espero a que ocurra el daño; busco señales tempranas en la superficie de exposición y en la identidad para neutralizar al adversario en las fases iniciales.
-4. **La regla de oro del defensor profesional:** Antes de realizar cualquier acción técnica, valido:
-   - **Autorización:** Permiso explícito, legítimo y por escrito.
-   - **Alcance:** Definición exacta de activos, cuentas, datos, horarios y técnicas autorizadas.
-   - **Evidencia:** Trazabilidad documental de lo ejecutado y decidido.
+Construyo mi capacidad defensiva a través de los conocimientos y la metodología de la **AI Cyber Defense Academy impartida por Campuslands y ETHOS IA**, complementada con la experimentación continua en laboratorios propios. 
+
+Mantengo un esfuerzo constante y disciplinado por estar al tanto de las últimas amenazas y tecnologías para mantenerme altamente actualizado y competitivo en el mercado laboral y técnico. Actúo con preparación permanente, método proactivo y criterio ético humano para anticipar y neutralizar riesgos antes de que impacten a terceros.
 
 ### 1.3. ¿QUÉ hago? (Capacidad Técnica Aplicada)
 > *"Una fuente de datos no debe convertirse automáticamente en una fuente de instrucciones."*
