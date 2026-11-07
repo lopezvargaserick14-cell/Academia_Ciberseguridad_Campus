@@ -5,45 +5,24 @@
 
 Bienvenido al repositorio oficial de evidencias y entregables de mi formación en la **AI Cyber Defense Academy**, programa desarrollado por **Campuslands** con el diseño metodológico y consultoría de **ETHOS IA CONSULTORES S.A.S.**
 
-Este espacio documenta mi evolución práctica como defensor de ciberseguridad enfocado en la nueva superficie de ataque generada por la **Inteligencia Artificial (LLMs, agentes autónomos, flujos RAG y APIs)**, aplicando una metodología defensiva, ética y basada en evidencia (**A4D: Attack, Analyze, Adapt, Defend**).
-
 ---
 
-## 📌 Estructura del Repositorio y Entregables
+## 📌 Índice de Entregables Oficiales
 
-```bash
-├── 01-fundamentos-y-manifiesto/
-│   └── MANIFIESTO_PERSONAL.md          # Entregable #1: Manifiesto ético del defensor y Círculo Dorado
-├── 02-analisis-adversario-y-laboratorios/
-│   └── 01-laboratorio-kali365-oauth/   # Entregable #2: Análisis defensivo proactivo caso Kali365 & IA
-│       ├── ANALISIS_DEFENSIVO_KALI365.md
-│       └── GUION_DIVULGACION_REDES.md
-└── LICENSE                             # Licencia y compromiso de divulgación responsable
-```
+### 📜 Sección 01: Propósito, Ética y Mentalidad del Defensor
+- 🌐 [Manifiesto en HTML interactivo (Página Web)](index.html)
+- 📝 [Manifiesto del Defensor (`manifiesto-defensor.md`)](01-fundamentos-y-manifiesto/manifiesto-defensor.md)
+- 💭 [Reflexión del Módulo 1 (`reflexion-modulo-01.md`)](01-fundamentos-y-manifiesto/reflexion-modulo-01.md)
+- 🎨 [Mapa de Propósito (`mapa-proposito.excalidraw`)](01-fundamentos-y-manifiesto/mapa-proposito.excalidraw)
 
----
-
-## 🧭 Metodología de Aprendizaje: A4D
-
-Cada entrega en este repositorio responde al ciclo operacional de defensa:
-
-1. **Attack (Comprender):** Analizar el comportamiento del adversario mediante marcos como MITRE ATT&CK y MITRE ATLAS.
-2. **Analyze (Separar):** Diferenciar hechos comprobados de hipótesis y suposiciones técnicas.
-3. **Adapt (Anticipar):** Diseñar controles y guardrails antes de que ocurra el impacto.
-4. **Defend (Proteger):** Implementar las 4 fases de resiliencia: *Prevenir, Detectar, Contener y Recuperar*.
-
----
-
-## ⚖️ Compromiso Ético y Legal
-
-Todas las actividades, análisis y simulaciones reflejadas en este repositorio se realizan bajo:
-- **Estricta autorización previa y delimitación de alcance** (laboratorios controlados y entornos deliberadamente diseñados para aprendizaje).
-- **Cumplimiento legal:** Ley 1273 de 2009 (Delitos Informáticos de Colombia), Ley 1581 de 2012 (Habeas Data / Protección de Datos Personales) y Convenio de Budapest.
-- **Marcos de buenas prácticas:** ISO/IEC 27001 y NIST Cybersecurity Framework (CSF) 2.0.
+### 🔬 Sección 02: Análisis de Amenazas y Laboratorios
+- ⏱️ **Laboratorio 1:** [Ventana Proactiva — Caso Football Leaks / Manchester City](02-analisis-adversario-y-laboratorios/02-laboratorio-1-ventana-proactiva-football-leaks/VENTANA_PROACTIVA_FOOTBALL_LEAKS.md)
+  - Reconstrucción paso a paso desde el Día 0, señales tempranas, controles omitidos y aceleración del impacto mediante Inteligencia Artificial.
+- 🛡️ **Laboratorio 2:** [Investigación de Incidentes — Caso Kali365 & Abuso de Tokens OAuth](02-analisis-adversario-y-laboratorios/01-laboratorio-kali365-oauth/ANALISIS_DEFENSIVO_KALI365.md)
+  - Desglose en 4 pilares (*Prevenir, Detectar, Contener, Recuperar*), PhaaS y protección de agentes de IA corporativos.
 
 ---
 
 ### 👤 Autor
-- **Estudiante / Defender:** AI Cyber Defense Academy
-- **Institución:** Campuslands x ETHOS IA CONSULTORES
-- **Contacto / Redes:** [LinkedIn Profile]
+- **Estudiante / Defender:** Erick López Vargas
+- **Programa:** AI Cyber Defense Academy · Campuslands × ETHOS IA
